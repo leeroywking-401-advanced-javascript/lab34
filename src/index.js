@@ -5,6 +5,7 @@ import App from './app.js';
 
 class Main extends React.Component {
   render() {
+    
     return <App />;
   }
 }
